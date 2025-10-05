@@ -1,0 +1,13 @@
+nav {
+  display: inline;
+}
+
+nav a {
+  color: orange;
+  font-weight: bold;
+}
+        
+section a {
+  text-decoration: none;
+  font-weight: bold;
+}
