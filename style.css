@@ -11,3 +11,7 @@ section a {
   text-decoration: none;
   font-weight: bold;
 }
+
+section p {
+  padding-left: 20px;
+}
